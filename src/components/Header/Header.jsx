@@ -12,10 +12,11 @@ function Header() {
         {/*</label>*/}
         <div className="block__menu">
         <ul className="menu">
+          <li><a href="#header">Home</a> </li>
           <li><a href="#teachers">Teachers</a></li>
           <li><a href="#students">Students</a></li>
           <li><a href="#footer">Footer</a> </li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#courses">Courses</a></li>
         </ul>
         </div>
       </header>
