@@ -1,15 +1,16 @@
-body {
-    margin: 0;
-    font-family: Helvetica, sans-serif;
-    background-color: #f4f4f4;
-  }
+/*body {*/
+/*    margin: 0;*/
+/*    font-family: Helvetica, sans-serif;*/
+/*    background-color: #f4f4f4;*/
+/*  }*/
   
   a {
     color: #000;
   }
   
   .header {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.51);
+    top: 0;
     position: fixed;
     width: 100%;
     z-index: 3;
@@ -22,7 +23,7 @@ body {
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #fff;
+    /*background-color: #fff;*/
   }
   
   .header li a {
@@ -33,7 +34,7 @@ body {
   
   .header li a:hover,
   .header .menu-btn:hover {
-    background-color: #f4f4f4;
+    /*background-color: #f4f4f4;*/
   }
   
   .header .logo {

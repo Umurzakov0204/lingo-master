@@ -3,19 +3,8 @@ import React from "react";
 function Students() {
     return (
         <>
-        <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <p id={'students'}>Students compponent</p> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-            <h1>Students compponent</h1> <br/>
-
+            <h1 id={'students'}>Students</h1>
+            <hr/>
         </>
     );
 }

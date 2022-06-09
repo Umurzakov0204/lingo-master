@@ -4,7 +4,8 @@ import './Courses.css'
 function Courses() {
     return (
         <>
-            <h1 id={'courses'}></h1>
+            <h1 id={'courses'}>Courses</h1>
+            <hr/>
             <div className="traineeship">
                 <div className="process-row">
                     <div className="activity animate-from-bottom__0">
@@ -12,10 +13,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">Web App</div>
+                                <div className="title">Веб-програмирования</div>
                             </div>
                             <div className="active">
-                                <div className="title">Web App Development</div>
+                                <div className="title">Веб-програмирования</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -28,10 +29,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">Mobile App</div>
+                                <div className="title">Английиский</div>
                             </div>
                             <div className="active">
-                                <div className="title">Mobile App Development</div>
+                                <div className="title">Английиский</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -45,10 +46,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">WordPress</div>
+                                <div className="title">Русский</div>
                             </div>
                             <div className="active">
-                                <div className="title">WordPress</div>
+                                <div className="title">Русский</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -61,10 +62,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">Digital Marketing</div>
+                                <div className="title">Арабский</div>
                             </div>
                             <div className="active">
-                                <div className="title">Digital Marketing</div>
+                                <div className="title">Арабский</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -78,10 +79,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">UI / UX Design</div>
+                                <div className="title">DTM</div>
                             </div>
                             <div className="active">
-                                <div className="title">UI / UX Design</div>
+                                <div className="title">DTM</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -99,10 +100,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">Web App</div>
+                                <div className="title">Графический дизайнер</div>
                             </div>
                             <div className="active">
-                                <div className="title">Web App Development</div>
+                                <div className="title">Графический дизайнер</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -115,10 +116,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">Mobile App</div>
+                                <div className="title">3Ds Max</div>
                             </div>
                             <div className="active">
-                                <div className="title">Mobile App Development</div>
+                                <div className="title">3Ds Max</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -132,7 +133,7 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">WordPress</div>
+                                <div className="title">SMM pro</div>
                             </div>
                             <div className="active">
                                 <div className="title">WordPress</div>
@@ -148,10 +149,10 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">Digital Marketing</div>
+                                <div className="title">Видео монтаж</div>
                             </div>
                             <div className="active">
-                                <div className="title">Digital Marketing</div>
+                                <div className="title">Видео монтаж</div>
                                 <div className="sub-title">Customer interactions, study and analysis of company branding
                                     through creative briefs. Creation of mock-up designs by using UI tools that simulate
                                     actions and pre-visualize the reactions.
@@ -165,7 +166,7 @@ function Courses() {
                             <div className="activity-icon">
                             </div>
                             <div className="inactive">
-                                <div className="title">UI / UX Design</div>
+                                <div className="title">Kompyuter Savodhonligi</div>
                             </div>
                             <div className="active">
                                 <div className="title">UI / UX Design</div>

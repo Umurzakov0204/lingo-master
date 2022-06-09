@@ -1,18 +1,3 @@
-  h1 {
-    color: #777;
-    text-transform: uppercase;
-    font-weight: 900;
-    text-align: center;
-    margin-top: 5vh;
-  }
-
-  h2 {
-    color: rgb(173, 173, 173);
-    text-transform: uppercase;
-    font-weight: 700;
-    text-align: center;
-  }
-
 .container {
   padding: 3em;
   display: grid;
@@ -62,13 +47,3 @@
         top: 10px;
         left: -15px;
       }
-
-
-
-hr {
-  width: 75%;
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, #f0f0f0, #414242, #0d2908, #f0f0f0);
-  margin-bottom: 5vh;
-}

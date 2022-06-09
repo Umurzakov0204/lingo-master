@@ -5,11 +5,8 @@ import './Teachers.css'
 const Teachers = () => {
     return (
         <>
-      <p id={'teachers'}>Teachers component</p> <br/>
-
-          {/*<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;700;900&display=swap" rel="stylesheet">*/}
-
-      <hr/>
+      <h1 id={'teachers'}>Teachers</h1> <br/>
+            <hr/>
           <div className="container">
               <div className="quote">
                   <img src={'https://cdn.pixabay.com/photo/2014/03/25/16/54/user-297566_960_720.png'} alt=""/>

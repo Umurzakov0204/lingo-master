@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+li {
+    list-style: none;
+}
+
+hr {
+    width: 75%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, #f0f0f0, #414242, #0d2908, #f0f0f0);
+    margin-bottom: 5vh;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 45px;
+    margin-top: 45px;
+}

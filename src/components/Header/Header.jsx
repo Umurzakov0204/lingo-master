@@ -1,4 +1,5 @@
 import React from "react";
+import Wrapper from '../Wrapper/Wrapper'
 import './Header.css'
 
 function Header() {
@@ -17,9 +18,12 @@ function Header() {
           <li><a href="#students">Students</a></li>
           <li><a href="#footer">Footer</a> </li>
           <li><a href="#courses">Courses</a></li>
+          <li><a href="#results">Results</a></li>
         </ul>
         </div>
       </header>
+
+      <Wrapper />
     </>
   );
 }
